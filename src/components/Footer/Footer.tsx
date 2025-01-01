@@ -13,7 +13,7 @@ import {
   MingcuteYoutubeFill,
 } from "@/icons";
 
-import styles from "./footer.module.css";
+import styles from "./Footer.module.css";
 
 export const Footer = (): ReactElement => {
   return (
